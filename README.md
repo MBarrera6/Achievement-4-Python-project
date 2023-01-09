@@ -1,5 +1,5 @@
 # Achievement 4: Instacart Python project
-![Instacart Logo](https://securecdn.pymnts.com/wp-content/uploads/2020/02/Score-Card-Company-Image-47.png)
+![Instacart Logo](https://syndigo.com/wp-content/uploads/2022/06/instacart-Syndigo.jpg)
 # Description
 This is the analysis of Instacart Grocery Basket to identify sales pattern using Python while being guided by the careerfoundry Data Analytics course.
 # Objective
