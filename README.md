@@ -14,4 +14,4 @@ This project was done throught Jupyter Notebook with Python and supported with M
 - Matplotlib
 - Scipy
 # Extra Resorces
-[Project Brief](file:///C:/Users/mauri/Downloads/Instacart-Basket-Analysis-Project/01%20Project%20Management/A4_Data_Project%20Brief.pdf)
+[Project Brief](https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf)
